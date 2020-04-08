@@ -1,2 +1,2 @@
-# titanic
-a sample titanic dataset from competition
+# TITANIC DATASET
+a sample titanic dataset from competition giving accuarcy of 76%
